@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Akshay Rao and am an AI ML professional working on projects.
+Feel free to colaborate or email me on akshayrao1012@gmail.com
+
 <!--
 **akshayrao1012/akshayrao1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
