@@ -8,10 +8,6 @@ Feel free to colaborate or email me on akshayrao1012@gmail.com
 
 [![Header](https://github.com/akshay-rao7/akshay-rao7/blob/master/readme_header%20-%20Copy.png "Header")](https://www.linkedin.com/in/akshay-rao7/)
 
-# Hey, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-My name is Akshay Rao and I am currently developing my skills in Artificial Intelligence and Machine Leanring. I have around 6+ years of experience in Robotics, Industrial Automation and US Healthcare. I'm from Mumbai,India and currently looking for a job. You can find me on [Linkedin](https://www.linkedin.com/in/akshay-rao7/).
-
 [Video Resume](https://www.youtube.com/watch?v=xbpIqQB-tzo)
 
 
