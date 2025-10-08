@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Akshay Rao and am an AI ML professional working on projects.
+My name is Akshay Rao and am a Product Manager.
 Feel free to colaborate or email me on akshayrao1012@gmail.com
 
 ---
